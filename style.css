@@ -1,0 +1,33 @@
+#login-form {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid #ccc;
+  }
+  
+  #login-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #login-form input[type="text"],
+  #login-form input[type="password"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #login-form input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
